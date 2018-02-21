@@ -1,0 +1,12 @@
+{
+  "name": "~danopz/npm-test",
+  "version": "0.0.1",
+  "description": "Test relative svg path within npm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danopz/npm-test.git"
+  },
+  "author": "Daniel Opitz <dev@copynpaste.de>",
+  "license": "MIT",
+  "homepage": "https://github.com/danopz/npm-test#readme"
+}
