@@ -1,3 +1,3 @@
 # npm-test
 
-![StackOverflow test icon](stackoverflow.svg)
+![StackOverflow test icon](stackoverflow.svg?sanitize=true)
