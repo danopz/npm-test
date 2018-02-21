@@ -1,5 +1,5 @@
 {
-  "name": "~danopz/npm-test",
+  "name": "danopz-npm-test",
   "version": "0.0.1",
   "description": "Test relative svg path within npm",
   "repository": {
